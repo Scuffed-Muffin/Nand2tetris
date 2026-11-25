@@ -3,7 +3,7 @@ A summary of my journey building a computer from first principles following Nand
 Link to course: https://www.nand2tetris.org/course
 ## Checklist
 ### Part I: Hardware
-Project 1: Boolean Logic- [ ]<br>
+Project 1: Boolean Logic- [x]<br>
 Project 2: Boolean Arithmetic- [ ] <br> 
 Project 3: Memory- [ ]<br> 
 Project 4: Machine learning- [ ]<br> 
